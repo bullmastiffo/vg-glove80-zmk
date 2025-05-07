@@ -6,7 +6,7 @@ Enabled support for full range of HID CONSUMER buttons (application launch keyst
 
 After upgrade might require BT repairing.
 
-Default layout is sligtly changed see [here](https://my.glove80.com/#/layout/user/8e028f6b-cbbc-4af6-91a6-53e5ac386d36). Summary: 
+Default layout is sligtly changed see [here](https://my.glove80.com/#/layout/user/abab68c4-c0bc-4c9d-b592-401bc48608b5). Summary: 
 
 - Added macro for changing keyboard layout (Win+space) `&win_space`
 - Lower layer: 
