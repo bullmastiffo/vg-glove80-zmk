@@ -4,6 +4,8 @@ Key differences from default Glove80 layout:
 
 Enabled support for full range of HID CONSUMER buttons (application launch keystrokes), like start calculator C_AL_CALC, which is disabled by default in glove80. Thanks to [this thread](https://forum.keyboardmaestro.com/t/application-launch-keystrokes-from-zmk-keyboard/38866/7) for information. It works on Win 11.
 
+After upgrade might require BT repairing.
+
 Default layout is sligtly changed see [here](https://my.glove80.com/#/layout/user/8e028f6b-cbbc-4af6-91a6-53e5ac386d36). Summary: 
 
 - Added macro for changing keyboard layout (Win+space) `&win_space`
@@ -12,7 +14,10 @@ Default layout is sligtly changed see [here](https://my.glove80.com/#/layout/use
     - added F11 and F12 on top left buttons (F9,F10 keys), shifting right column down one key
     - added Win key on left arrow (LGUI)
     - added `&win_space` macro on right arrow
-- Magic layer added C_AL_CALC on F6 key
+- Magic layer 
+
+    - added C_AL_CALC on F6 key
+    - added Win key on arrows (LGUI)
 
 
 ![MoErgo Logo](moergo_logo.png)
